@@ -10,4 +10,5 @@ Estudié una carrera relacionada con los temas que vimos a lo largo del curso, p
 Sin embargo, cada trabajo que los MS dejaban me permitió reforzar o complementar los temas.
 
 En **Onboarding** aprendí sobre los **ambientes** y **excepciones** que eran temas que no dominaba.
+
 Mientras en **FrontEnd** aprendí a mejorar la lógica que utilizaba en **CSS** así como los **Framework de JS**.
