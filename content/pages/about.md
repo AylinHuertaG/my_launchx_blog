@@ -20,7 +20,7 @@ También me gusta leer, entre mis lecturas favoritas están:
 
 - Harry Potter.
 
-  ![HP circle logo](https://kbimages1-a.akamaihd.net/e2537ec3-2401-47d6-a771-6bffb0f44e4e/180/1000/False/harry-potter-and-the-prisoner-of-azkaban-5.jpg)
+  ![HP](https://kbimages1-a.akamaihd.net/e2537ec3-2401-47d6-a771-6bffb0f44e4e/180/1000/False/harry-potter-and-the-prisoner-of-azkaban-5.jpg)
 
 - Maze Runner.
 - Los juegos del hambre.
@@ -30,7 +30,7 @@ Hace años que conocí la llamada *ola coreana* de la cuál me gustaron mucho lo
 
 - Mi compañero de cuarto es un Gumiho.
 
-  ![MCDCEUG circle logo](https://static.wikia.nocookie.net/drama/images/3/30/My_Roommate_is_a_Gumiho-tvN-2021-07.jpg/revision/latest?cb=20210507110554&path-prefix=es)
+  ![MCDCEUG](https://static.wikia.nocookie.net/drama/images/3/30/My_Roommate_is_a_Gumiho-tvN-2021-07.jpg/revision/latest?cb=20210507110554&path-prefix=es)
 
 - La poderosa mujer Do Bong Soon.
 - Dream High.
@@ -39,7 +39,7 @@ Así mismo, me gustó el kpop, en especial:
 
 - Miss A
 
-  ![MA circle logo](https://static.wikia.nocookie.net/allkpopidols/images/2/2e/Dalkomhi-1442862585.jpg/revision/latest?cb=20150921190945&path-prefix=es)
+  ![MA](https://static.wikia.nocookie.net/allkpopidols/images/2/2e/Dalkomhi-1442862585.jpg/revision/latest?cb=20150921190945&path-prefix=es)
 
 - Twice
 - Blackpink
